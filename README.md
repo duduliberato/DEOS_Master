@@ -35,4 +35,4 @@ To handle the "non-stationary" nature of energy data (trends and long-term growt
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/DEOS_Master_Research.git](https://github.com/YOUR_USERNAME/DEOS_Master_Research.git)
+   git clone [https://github.com/duduliberato/DEOS_Master_Research.git](https://github.com/duduliberato/DEOS_Master_Research.git)
